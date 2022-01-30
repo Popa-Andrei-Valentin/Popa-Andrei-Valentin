@@ -1,5 +1,5 @@
 ### Hi, I'm Andrei 👋
-I am a passionate Front End Developer at the start of his journey, not shying away from any challenge and continuously searching for questions that need answers.
+I am a Front End Developer.
 - 🌱 Learning anything I can get my hands on!
 - 🔭 I’m currently working on personal projects usign JS, HTML & CSS.
 - 📫 Let's connect [LinkedIn](https://www.linkedin.com/in/popa-andrei-valentin/).
