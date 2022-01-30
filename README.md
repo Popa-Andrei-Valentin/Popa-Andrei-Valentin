@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi, I'm Andrei 👋
+- 🌱 Learning anything I can get my hands on!
+- 🔭 I’m currently working on personal projects usign JS,HTML & CSS.
+- 📫 Let's connect [LinkedIn](https://www.linkedin.com/in/popa-andrei-valentin/).
 <!--
 **Popa-Andrei-Valentin/Popa-Andrei-Valentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
