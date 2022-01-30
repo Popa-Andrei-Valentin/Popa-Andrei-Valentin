@@ -1,5 +1,4 @@
 ### Hi, I'm Andrei 👋
-I am a Front End Developer.
 - 🌱 Learning anything I can get my hands on!
 - 🔭 I’m currently working on personal projects usign JS, HTML & CSS.
 - 📫 Let's connect [LinkedIn](https://www.linkedin.com/in/popa-andrei-valentin/).
