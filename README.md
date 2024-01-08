@@ -1,6 +1,3 @@
-![Blue and White Abstract Technology LinkedIn Banner](https://github.com/Popa-Andrei-Valentin/Popa-Andrei-Valentin/assets/94912205/1595cd2b-d09f-49ea-bc56-8adcfae4c454)
-
-
 ### Hi, I'm Andrei 👋
 <!--
 **Popa-Andrei-Valentin/Popa-Andrei-Valentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
